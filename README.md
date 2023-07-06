@@ -3,7 +3,7 @@ Using this class, you can utilize embeds for your self-bot. Using [rauf](https:/
 # Usage
 To use these embeds, download our embed class **(only 1 file)**.  Then import it into your main class.
 ```
-from CustomEmbed import Embed as eb
+from selfbot-embeds import Embed as eb
 ```
 Next, create an embed object by using the following code
 ```
