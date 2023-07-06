@@ -9,4 +9,11 @@ Next, create an embed object by using the following code
 ```
 embed = eb("Title here")
 ```
-Read over the `example.py` file to learn more about the functions.
+Read over the `selfbotembed.py` file for more info or read below.
+
+```
+embed.set_title("TItle here"): #sets title
+embed.set_description("Description here"): # sets description
+embed.set_image("image url here"): # sets image
+embed.set_color("Color hex here ex. #000000"): # sets color
+```
