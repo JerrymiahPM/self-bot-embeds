@@ -17,3 +17,16 @@ embed.set_description("Description here"): # sets description
 embed.set_image("image url here"): # sets image
 embed.set_color("Color hex here ex. #000000"): # sets color
 ```
+
+Finally, once configuring, in your discordpy, to send a embed, just send a normal message with the following inside.
+```
+embed.generate()
+```
+
+Heres an example
+```
+@bot.command()
+async def ping(ctx):
+  ctx.send(embed.generate())
+  # Do this after configuring above
+```
