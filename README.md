@@ -25,8 +25,9 @@ embed.generate()
 
 Heres an example
 ```
+# Do this after configuring above
 @bot.command()
 async def ping(ctx):
   ctx.send(embed.generate())
-  # Do this after configuring above
+  # More code...
 ```
