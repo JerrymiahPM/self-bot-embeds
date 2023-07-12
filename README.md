@@ -1,5 +1,6 @@
 # self-bot-embeds
 Using this class, you can utilize embeds for your self-bot. Using [rauf](https://embed.rauf.wtf), we can create URLs for embeds easily, automatically using [Python](https://www.python.org/).
+**⛔️USE AT YOUR OWN RISK⛔️ I AM NOT RESPONSIBLE FOR ANYTHING THAT HAPPENS TO YOUR ACCOUNT**
 # Usage
 To use these embeds, download our embed class **(only 1 file)**.  Then import it into your main class.
 ```
